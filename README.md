@@ -61,7 +61,7 @@ For this assignment you will need some specific tools
 
 * You must show all your code for the work in your analysis document. This may make the document a bit verbose, but that is okay. In general, you should ensure that `echo = TRUE` for every code chunk (this is the default setting in knitr).
 
-#### Publishing Your Analysis
+####  Publishing Your Analysis
 
 For this assignment you will need to publish your analysis on [RPubs.com](http://rpubs.com/). If you do not already have an account, then you will have to create a new account. After you have completed writing your analysis in RStudio, you can publish it to RPubs by doing the following:
 
